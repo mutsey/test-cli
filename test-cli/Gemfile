@@ -1,4 +1,7 @@
 source "https://rubygems.org"
 
+```ruby
+gem 'test-cli'
+
 # Specify your gem's dependencies in test-cli.gemspec
 gemspec
